@@ -183,48 +183,50 @@ section >  header {
     width: 100%;
   }
 
-  .title {
-    font-size: 12px;
-    margin-left: auto;
-    margin-right: auto;
-    }
+.title {
+  font-size: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  }
 
-    i {
-      font-size: 25px;
-    }
+i {
+  font-size: 25px;
 
-    h1 {
-      padding-left: 10px;
-    }
+ }
 
-    #navbar {
-      height: 110px;
-      width: 100%;
-      font-size: 10px;
-      z-index: 1;
-      top: 45px;
-    }
+ h1 {
+   padding-left: 10px;
 
-    nav > header {
-      font-size: 15px;
-      margin-left: 42%;
-      margin-top: 5px;
-    }
+ }
+  #navbar {
+    height: 104px;
+    width: 100%;
+    font-size: 10px;
+    z-index: 1;
+    top: 45px;
+    overflow: hidden;
+  }
 
-    nav > ul > li {
-      padding-top: 5px;
-      padding-bottom: 5px;
-    }
+ nav > header {
+   font-size: 15px;
+   margin-left: 40%;
+   margin-top: 10px;
+ }
 
-    #main-doc {
-      position: absolute;
-      left: 0;
-      top: 150px;
-      text-align: justify;
-    }
+nav > ul > li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 
-    #navbar ul {
-      overflow-y: auto;
-      height: 80%;
-    }
+  #main-doc {
+    position: absolute;
+    left: 0;
+    top: 150px;
+    text-align: justify;
+  }
+
+  #navbar ul {
+  overflow-y: auto;
+  height: 65%;
+}
 }
