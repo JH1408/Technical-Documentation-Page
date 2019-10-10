@@ -7,5 +7,5 @@ It is part of the [FreeCodeCamp Responsive Webdesign Certification](https://lear
 
 See the project in action [here](https://technical-documentation-page--josyh.repl.co/).
 
-
+![JavaScript Documentation Page Mockup](./TechDoc_min.png)
 
